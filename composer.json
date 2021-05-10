@@ -1,5 +1,7 @@
 {
-    "name": "dominic/php-app-test",
+    "name": "dominic/perfex_crm",
+    "description": "CRM",
+    "type": "project",
     "authors": [
         {
             "name": "dhofilena",
