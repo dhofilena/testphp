@@ -1,0 +1,10 @@
+{
+    "name": "dominic/php-app-test",
+    "authors": [
+        {
+            "name": "dhofilena",
+            "email": "dnickz25@gmail.com"
+        }
+    ],
+    "require": {}
+}
