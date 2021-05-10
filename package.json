@@ -12,8 +12,8 @@
     "grunt-contrib-uglify": "^3.4.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-header": "^1.1.0",
-    "grunt-postcss": "^0.8.0",
-    "grunt-replace": "^1.0.1",
+    "grunt-postcss": "^0.9.0",
+    "grunt-replace": "^2.0.2",
     "pixrem": "^3.0.2",
     "postcss": "^6.0.23"
   }
